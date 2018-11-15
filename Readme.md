@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/RTFRibbonMini/Form1.cs) (VB: [Form1.vb](./VB/RTFRibbonMini/Form1.vb))
+* [MyRibbonControl.cs](./CS/RTFRibbonMini/MyRibbonControl.cs) (VB: [MyRibbonControl.vb](./VB/RTFRibbonMini/MyRibbonControl.vb))
+<!-- default file list end -->
 # How to implement an MS Word-like Mini Toolbar in RichEditControl
 
 
